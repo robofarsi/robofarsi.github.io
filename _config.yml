@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+title: RoboFarsi
+remote_theme: pmarsceill/just-the-docs
+plugins:
+  - jekyll-remote-theme
