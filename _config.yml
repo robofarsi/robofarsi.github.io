@@ -12,8 +12,8 @@ plugins:
 # Navigation
 header_pages:
   - index.md
-  - about.md
   - getting_started.md
+  - resources.md
   - contact.md
 
 # Repository link (optional)

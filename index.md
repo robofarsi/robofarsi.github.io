@@ -14,7 +14,7 @@ This site is built to share interesting resources on robotics.
 
 You can visit the main pages:
 
-- [About Me](about.md)
+- [Resources](resources.md)
 - [Getting Started](getting_started.md)
 - [Contact](contact.md)
 
@@ -31,4 +31,3 @@ You can visit the main pages:
 ## About Me
 
 Hi! I’m passionate about robotics and AI, and I enjoy sharing interesting resources, projects, and insights with the community.
-[Read more →](about.md)

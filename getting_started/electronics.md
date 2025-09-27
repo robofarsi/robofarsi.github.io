@@ -5,7 +5,7 @@ parent: Getting Started
 nav_order: 2
 ---
 
-- **Electronics & Hardware** 
+**Electronics & Hardware** 
 
 - Microcontrollers (Arduino, Raspberry Pi).
 - Power systems.
