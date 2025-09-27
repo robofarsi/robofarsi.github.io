@@ -2,11 +2,11 @@
 title: Getting Started
 layout: default
 nav_order: 2
+has_children: true
 ---
 
-
 [Mechanical Systems](mechanical_systems.md)
-
+[Electronics & Hardware](electronics.md)
 
 
 # Projects
