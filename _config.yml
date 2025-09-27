@@ -1,4 +1,42 @@
+# Site settings
 title: RoboFarsi
+description: A website sharing robotics tutorials, projects, and useful resources.
+baseurl: "" # leave empty for user/organization sites
+url: "https://robofarsi.github.io"
+
+# Theme settings
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-remote-theme
+
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - contact.md
+
+# Repository link (optional)
+repository:
+  url: "https://github.com/robofarsi/robofarsi.github.io"
+
+# Default page settings
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      lang: en
+      dir: ltr
+      layout: default
+
+# Exclude files/folders from build
+exclude:
+  - node_modules
+  - vendor
+
+# Theme customization
+just_the_docs:
+  logo: "/assets/images/logo.png" # optional
+  search_enabled: true
+  show_sidebar: true
