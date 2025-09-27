@@ -1,6 +1,6 @@
 # Site settings
 title: RoboFarsi
-description: A website sharing robotics tutorials, projects, and useful resources.
+description: A website about robotics, tutorials, and useful resources.
 baseurl: "" # leave empty for user/organization sites
 url: "https://robofarsi.github.io"
 
@@ -13,7 +13,7 @@ plugins:
 header_pages:
   - index.md
   - about.md
-  - projects.md
+  - getting_started.md
   - contact.md
 
 # Repository link (optional)

@@ -15,7 +15,7 @@ This site is built to share interesting resources on robotics.
 You can visit the main pages:
 
 - [About Me](about.md)
-- [Projects](projects.md)
+- [Getting Started](getting_started.md)
 - [Contact](contact.md)
 
 ---
