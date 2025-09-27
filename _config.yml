@@ -40,9 +40,4 @@ just_the_docs:
   logo: "/assets/images/logo.png" # optional
   search_enabled: true
   show_sidebar: true
-  
-# Custom sidebar  
-sass:
-  sass_dir: _sass
-  style: compressed
 
