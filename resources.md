@@ -7,6 +7,13 @@ nav_order: 3
 **Resources & Tools** 
 Hardware and community resources for learners and makers in Robotics & IoT
 
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Data 1   | Data 2   |
+| Row 2    | Data 3   | Data 4   |
+| Row 3    | Data 5   | Data 6   |
+
+
 ***Electronics Hardware*** 
 - [Waveshare](https://www.waveshare.com/)
 - [Luckfox Technology](https://www.luckfox.com/index.php)
