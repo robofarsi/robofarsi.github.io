@@ -9,12 +9,12 @@ Hardware and community resources for learners and makers in Robotics & IoT
 
 | ***Electronics Hardware*** | ***Robotic Platforms***  | ***Makers & YouTube Channels***  |
 |----------|----------|----------|
-|- [Waveshare](https://www.waveshare.com/)|- [Open Hardware Robots](https://open-hardware-robots.github.io/CoRL2025/) | |
-|- [Luckfox Technology](https://www.luckfox.com/index.php)|- [Petoi](https://docs.petoi.com/) | |
+|- [Waveshare](https://www.waveshare.com/)|- [Open Hardware Robots](https://open-hardware-robots.github.io/CoRL2025/) |- [Marc Engrie](https://wp.engrie.be/electronica-forever-love/) |
+|- [Luckfox Technology](https://www.luckfox.com/index.php)|- [Petoi](https://docs.petoi.com/) |- [Luis Llamas](https://github.com/luisllamasbinaburo/ESP32-Examples) |
 |- [DFRobot](https://www.dfrobot.com/)|- [DonkeyCar](https://docs.donkeycar.com/) | |
-|- [Seeed Studio](https://www.seeedstudio.com/)| | |
-|- [Adafruit](https://www.adafruit.com/)| | |
-|- [SparkFun](https://www.sparkfun.com/)| | |
+|- [Seeed Studio](https://www.seeedstudio.com/)|- [Open Duck Mini](https://github.com/apirrone/Open_Duck_Mini) | |
+|- [Adafruit](https://www.adafruit.com/)|- [Rosmo](https://rosmo-robot.github.io/) | |
+|- [SparkFun](https://www.sparkfun.com/)|- [Open Robotics](https://discourse.openrobotics.org/) | |
 |- [M5Stack](https://m5stack.com/)| | |
 |- [Elecrow](https://www.elecrow.com/)| | |
 |- [SunFounder](https://www.sunfounder.com/)| | |
