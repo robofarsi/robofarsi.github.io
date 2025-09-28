@@ -1,11 +1,11 @@
 ---
-title: Electronics Hardware
+title: Electronics
 parent: Resources
-nav_order: 1
+nav_order: 2
 ---
 
-**Electronics Hardware** 
-- [Waveshare](https://www.waveshare.com/)
+**Electronics** 
+- [Waveshare](https://www.waveshare.com/) - 
 - [Luckfox Technology](https://www.luckfox.com/index.php)
 - [DFRobot](https://www.dfrobot.com/)
 - [Seeed Studio](https://www.seeedstudio.com/)

@@ -1,7 +1,7 @@
 ---
 title: Robotic Platforms
 parent: Resources
-nav_order: 2
+nav_order: 4
 ---
 
 **Robotic Platforms** 
