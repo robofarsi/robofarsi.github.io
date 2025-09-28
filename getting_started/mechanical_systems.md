@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Mechanical Systems
 parent: Getting Started
 nav_order: 1
