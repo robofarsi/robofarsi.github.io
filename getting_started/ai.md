@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Artificial Intelligence in Robotics
+title: AI in Robotics
 parent: Getting Started
-nav_order: 2
+nav_order: 4
 ---
 
 **Artificial Intelligence in Robotics** 
