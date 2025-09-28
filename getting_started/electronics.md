@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Electronics & Hardware
 parent: Getting Started
 nav_order: 2

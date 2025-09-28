@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Programming & Software
 parent: Getting Started
 nav_order: 3

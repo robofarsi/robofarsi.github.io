@@ -1,5 +1,4 @@
 ---
-layout: default
 title: AI in Robotics
 parent: Getting Started
 nav_order: 4
