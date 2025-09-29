@@ -71,40 +71,40 @@ nav_order: 5
 - [Miss Coding](https://www.youtube.com/@MissCoding) - Tutorials, tech opinions, and learning strategies for programmers
 - [Murtaza Workshop](https://www.youtube.com/@murtazasworkshop) - Practical tutorials on computer vision, Python, robotics, and AI
 - [Nicolai AI](https://www.youtube.com/@NicolaiAI) - AI, machine learning, and computer vision
-- [Nikodem Bartnik](https://www.youtube.com/@nikodembartnik) - 
-- [Null Byte WHT](https://www.youtube.com/@NullByteWHT) - 
-- [Pat Loeber](https://www.youtube.com/@patloeber) - 
-- [Practical Software Marcus](https://www.youtube.com/@practicalsoftwaremarcus)
-- [PX4 Autopilot](https://www.youtube.com/@PX4Autopilot)
-- [Ralph Bacon](https://www.youtube.com/@RalphBacon)
-- [Rc Life On](https://www.youtube.com/@RcLifeOn)
-- [Robonyx](https://www.youtube.com/@Robonyx)
-- [Legged Robotics](https://www.youtube.com/@leggedrobotics)
-- [Robotics and ROS Learning](https://www.youtube.com/@roboticsandroslearning8232)
-- [Robotics BackEnd](https://www.youtube.com/@RoboticsBackEnd)
-- [Robotics KANTI](https://www.youtube.com/@roboticskanti)
-- [Robotics Weekends](https://www.youtube.com/@RoboticsWeekends)
-- [Rui Santos](https://www.youtube.com/@RuiSantosdotme)
-- [Seeed StudioSZ](https://www.youtube.com/@SeeedStudioSZ)
-- [Sentdex](https://www.youtube.com/@sentdex)
-- [Servo City](https://www.youtube.com/@ServoCity)
-- [Spark Fun](https://www.youtube.com/@sparkfun)
-- [Sunfounder Official](https://www.youtube.com/@Sunfounder_official)
-- [Taki Udon](https://www.youtube.com/@TakiUdon)
-- [Tall Paul Tech](https://www.youtube.com/@TallPaulTech)
-- [Tech Explorations_](https://www.youtube.com/@TechExplorations_)
-- [Tech Minds Official](https://www.youtube.com/@TechMindsOfficial)
-- [That Project](https://www.youtube.com/@ThatProject)
-- [The Cherno](https://www.youtube.com/@TheCherno)
-- [The Construct](https://www.youtube.com/@TheConstruct)
-- [The DC Minds](https://www.youtube.com/@TheDCMinds)
-- [The Drone Dojo](https://www.youtube.com/@thedronedojo)
-- [Engineering Mindset](https://www.youtube.com/@EngineeringMindset)
-- [The Robot Brains Podcast](https://www.youtube.com/@TheRobotBrainsPodcast)
-- [The New Boston](https://www.youtube.com/@thenewboston)
-- [Useful Electronics](https://www.youtube.com/@usefulelectronics)
-- [Volos Projects](https://www.youtube.com/@VolosProjects)
-- [Waveshare Electronics](https://www.youtube.com/@waveshareelectronics)
-- [Wagners TechTalk](https://www.youtube.com/@WagnersTechTalk)
-- [Whirly Blokev](https://www.youtube.com/@WhirlyBlokev)
+- [Nikodem Bartnik](https://www.youtube.com/@nikodembartnik) - Open-source DIY projects in robotics, electronics, Arduino, CNC machining
+- [Null Byte WHT](https://www.youtube.com/@NullByteWHT) - Tutorials on ethical hacking techniques
+- [Pat Loeber](https://www.youtube.com/@patloeber) - Python programming tutorials covering machine learning and software development
+- [Practical Software Marcus](https://www.youtube.com/@practicalsoftwaremarcus) - Software engineering career advice 
+- [PX4 Autopilot](https://www.youtube.com/@PX4Autopilot) - Open-source autopilot software tutorials
+- [Ralph Bacon](https://www.youtube.com/@RalphBacon) - Arduino and electronics projects 
+- [Rc Life On](https://www.youtube.com/@RcLifeOn) - RC aircraft builds, reviews, and FPV drone content
+- [Robonyx](https://www.youtube.com/@Robonyx) - Robotics projects and tutorials focusing on Arduino and embedded systems
+- [Legged Robotics](https://www.youtube.com/@leggedrobotics) - Academic research and developments in quadrupedal and legged robot locomotion
+- [Robotics and ROS Learning](https://www.youtube.com/@roboticsandroslearning8232) - ROS tutorials and robotics programming guides
+- [Robotics BackEnd](https://www.youtube.com/@RoboticsBackEnd) - ROS tutorials and practical robotics software development
+- [Robotics KANTI](https://www.youtube.com/@roboticskanti) - Educational robotics content and project tutorials
+- [Robotics Weekends](https://www.youtube.com/@RoboticsWeekends) - Weekend robotics projects and tutorials for enthusiasts
+- [Rui Santos](https://www.youtube.com/@RuiSantosdotme) - ESP32, Arduino, and IoT electronics projects and tutorials
+- [Seeed StudioSZ](https://www.youtube.com/@SeeedStudioSZ) - Hardware products, development boards, and maker project tutorials
+- [Sentdex](https://www.youtube.com/@sentdex) - Python programming with focus on machine learning, AI, and data analysis
+- [Servo City](https://www.youtube.com/@ServoCity) - Robotics hardware, servo motors, and mechanical building systems
+- [Spark Fun](https://www.youtube.com/@sparkfun) - Electronics tutorials, product reviews, and maker education content
+- [Sunfounder Official](https://www.youtube.com/@Sunfounder_official) - RPi and Arduino learning kits and project tutorials
+- [Taki Udon](https://www.youtube.com/@TakiUdon) - VR avatar creation, 3D modeling, and Unity development tutorials
+- [Tall Paul Tech](https://www.youtube.com/@TallPaulTech) - Technology reviews, RPi projects, and maker electronics
+- [Tech Explorations_](https://www.youtube.com/@TechExplorations_) - Arduino, RPi, and electronics courses with comprehensive project-based learning
+- [Tech Minds Official](https://www.youtube.com/@TechMindsOfficial) - SDR (Software Defined Radio), RF technology, and wireless communication tutorials
+- [That Project](https://www.youtube.com/@ThatProject) - ESP32 and Arduino IoT projects with creative DIY electronics builds
+- [The Cherno](https://www.youtube.com/@TheCherno) - C++ game engine development and advanced programming tutorials
+- [The Construct](https://www.youtube.com/@TheConstruct) - ROS and robotics simulation training with Gazebo and robotic systems
+- [The DC Minds](https://www.youtube.com/@TheDCMinds) - Brushless motors, ESCs, and drone electronics technical explanations
+- [The Drone Dojo](https://www.youtube.com/@thedronedojo) - FPV drone building, racing, and freestyle flying tutorials
+- [Engineering Mindset](https://www.youtube.com/@EngineeringMindset) - Engineering fundamentals covering electrical and mechanical systems explained visually
+- [The Robot Brains Podcast](https://www.youtube.com/@TheRobotBrainsPodcast) - Interviews with robotics researchers and industry leaders about AI and robotics
+- [The New Boston](https://www.youtube.com/@thenewboston) - Programming tutorials across multiple languages and web development
+- [Useful Electronics](https://www.youtube.com/@usefulelectronics) - Embedded systems projects with STM32, ESP32, and IoT development
+- [Volos Projects](https://www.youtube.com/@VolosProjects) - DIY robotics and Arduino projects with detailed build guides
+- [Waveshare Electronics](https://www.youtube.com/@waveshareelectronics) - Development boards, displays, and electronic modules tutorials and demos
+- [Wagners TechTalk](https://www.youtube.com/@WagnersTechTalk) - Home automation, 3D printing, and maker project reviews
+- [Whirly Blokev](https://www.youtube.com/@WhirlyBlokev) - Helicopter flight training, RC helicopters, and rotorcraft tutorials
 
