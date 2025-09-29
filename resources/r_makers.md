@@ -5,75 +5,75 @@ nav_order: 5
 ---
 
 **Makers & YouTube Channels** 
-- [Marc Engrie](https://wp.engrie.be/electronica-forever-love/)
-- [Luis Llamas](https://github.com/luisllamasbinaburo/ESP32-Examples)
-- [Adafruit](https://www.youtube.com/@adafruit)
-- [AK Electro DIY](https://www.youtube.com/@AKElectroDIY)
-- [Algo Rythmics](https://www.youtube.com/@AlgoRythmics)
-- [Adrians Digital Basement](https://www.youtube.com/@adriansdigitalbasement)
-- [Andreas Spiess](https://www.youtube.com/@AndreasSpiess)
-- [Andrew Newton](https://www.youtube.com/@AndrewNewton)
-- [Antony Cartwright](https://www.youtube.com/@antonycartwright)
-- [Arducam](https://www.youtube.com/@ArducamOfficial)
-- [Arduino](https://www.youtube.com/@Arduino)
-- [Ardupilot](https://www.youtube.com/@ardupilot19)
-- [Articulated Robotics](https://www.youtube.com/@ArticulatedRobotics)
-- [Ascend Engineering](https://www.youtube.com/@ascendengineering640)
-- [Blue Dot ROV](https://www.youtube.com/@bluedotrov9171)
-- [Branch Education](https://www.youtube.com/@BranchEducation)
-- [Caleb Marting](https://www.youtube.com/@CalebMarting)
-- [Carbon Aeronautics](https://www.youtube.com/@carbonaeronautics)
-- [Core Electronics](https://www.youtube.com/@Core-Electronics)
-- [Corey](https://www.youtube.com/@coreyms)
-- [CPS Drone](https://www.youtube.com/@CPSdrone)
-- [Cyrill Stachniss](https://www.youtube.com/@CyrillStachniss)
-- [Dan Makes Things](https://www.youtube.com/@DanMakesThings)
-- [Daves Garage](https://www.youtube.com/@DavesGarage)
-- [David Bombal](https://www.youtube.com/@davidbombal)
-- [Derek Banas](https://www.youtube.com/@derekbanas)
-- [DF ROBOT](https://www.youtube.com/@DFROBOTCN)
-- [DIY Engineers](https://www.youtube.com/@diyengineers)
-- [DIY LIFE HACKER](https://www.youtube.com/@DIYLIFEHACKER)
-- [Drone Mesh](https://www.youtube.com/@DroneMesh)
-- [Drone Bot Workshop](https://www.youtube.com/@Dronebotworkshop)
-- [Elecrow](https://www.youtube.com/@Elecrow)
-- [ELECTRO NOOBS](https://www.youtube.com/@ELECTRONOOBS)
-- [Essential RC](https://www.youtube.com/@EssentialRC)
-- [Foxtech Hobby](https://www.youtube.com/@Foxtechhobby)
-- [Foxtech Robot](https://www.youtube.com/@foxtechrobot)
-- [FPV Usman](https://www.youtube.com/@fpvusman)
-- [FPV University](https://www.youtube.com/@FPVUniversity)
-- [Gary Explains](https://www.youtube.com/@GaryExplains)
-- [GREEN TECH](https://www.youtube.com/@Gtechpk)
-- [Hackster IO](https://www.youtube.com/@HacksterIo)
-- [Ham Radio Crash Course](https://www.youtube.com/@HamRadioCrashCourse)
-- [Hash Include Electronics](https://www.youtube.com/@hashincludeelectronics)
-- [HB9BLA Wireless](https://www.youtube.com/@HB9BLA)
-- [Hiwonder](https://www.youtube.com/@hiwonder294)
-- [How To Mechatronics](https://www.youtube.com/@HowToMechatronics)
-- [Huiyuan](https://www.youtube.com/@huiyuan1295)
-- [Intelligent Quads](https://www.youtube.com/@IntelligentQuads)
-- [Jeff Geerling](https://www.youtube.com/@JeffGeerling)
-- [Jetson Hacks](https://www.youtube.com/@JetsonHacks)
-- [Joeys Retro Handhelds](https://www.youtube.com/@JoeysRetroHandhelds)
-- [Joop Brokking](https://www.youtube.com/@Joop_Brokking)
-- [Joshua Bardwell](https://www.youtube.com/@JoshuaBardwell)
-- [Joyplanes](https://www.youtube.com/@Joyplanes)
-- [Kendin Yap](https://www.youtube.com/@Kendin-Yap)
-- [Kolban Technical Tutorials](https://www.youtube.com/@kolbantechnicaltutorials4715)
-- [Leepsp Video](https://www.youtube.com/@leepspvideo)
-- [Luckfox Technology](https://www.youtube.com/@LuckfoxTechnology)
-- [Mad RC](https://www.youtube.com/@MadRC)
-- [MAKE](https://www.youtube.com/@MAKE)
-- [Make Hub TW](https://www.youtube.com/@MakeHubtw)
-- [Max Imagination](https://www.youtube.com/@MaxImagination)
-- [Mike Shah](https://www.youtube.com/@MikeShah)
-- [Miss Coding](https://www.youtube.com/@MissCoding)
-- [Murtaza Workshop](https://www.youtube.com/@murtazasworkshop)
-- [Nicolai AI](https://www.youtube.com/@NicolaiAI)
-- [Nikodem Bartnik](https://www.youtube.com/@nikodembartnik)
-- [Null Byte WHT](https://www.youtube.com/@NullByteWHT)
-- [Pat Loeber](https://www.youtube.com/@patloeber)
+- [Marc Engrie](https://wp.engrie.be/electronica-forever-love/) - ESP, RPi, Network
+- [Luis Llamas](https://github.com/luisllamasbinaburo/ESP32-Examples) - ESP
+- [Adafruit](https://www.youtube.com/@adafruit) - Electronics, DIY projects, and open-source hardware
+- [AK Electro DIY](https://www.youtube.com/@AKElectroDIY) - RC planes, electronics, robotics, Arduino and DIY
+- [Algo Rythmics](https://www.youtube.com/@AlgoRythmics) - Visualizes classic computer algorithms
+- [Adrians Digital Basement](https://www.youtube.com/@adriansdigitalbasement) - Repair, and explore vintage computers and hardware
+- [Andreas Spiess](https://www.youtube.com/@AndreasSpiess) - Sensors, ESP32, Arduino, RPi, and IoT
+- [HB9BLA Wireless](https://www.youtube.com/@HB9BLA) - Amateur radio, IoT, SDR
+- [Andrew Newton](https://www.youtube.com/@AndrewNewton) - RC airplanes, FPV gear reviews, and flight electronics setups
+- [Antony Cartwright](https://www.youtube.com/@antonycartwright) - Electronics, microcontrollers, and programming
+- [Arducam](https://www.youtube.com/@ArducamOfficial) - Camera modules for RPi, embedded vision, and AI imaging solutions
+- [Arduino](https://www.youtube.com/@Arduino) - Arduino boards
+- [Ardupilot](https://www.youtube.com/@ardupilot19) - ArduPilot open-source autopilot project
+- [Articulated Robotics](https://www.youtube.com/@ArticulatedRobotics) - Instructional and entertaining content on robotics (ROS)
+- [Ascend Engineering](https://www.youtube.com/@ascendengineering640) - Drones, UAVs, and fixed-wing software engineering solution
+- [Blue Dot ROV](https://www.youtube.com/@bluedotrov9171) - DIY underwater drone kits
+- [Branch Education](https://www.youtube.com/@BranchEducation) - Breaking down complex engineering concepts using visualizations
+- [Caleb Marting](https://www.youtube.com/@CalebMarting) - Electronics and lighting projects
+- [Carbon Aeronautics](https://www.youtube.com/@carbonaeronautics) - DIY drone and underwater vehicle projects
+- [Core Electronics](https://www.youtube.com/@Core-Electronics) - Makers on Arduino, RPi, and emerging technologies
+- [Corey](https://www.youtube.com/@coreyms) - Software developing, programming, and engineering
+- [CPS Drone](https://www.youtube.com/@CPSdrone) - DIY underwater robotics
+- [Cyrill Stachniss](https://www.youtube.com/@CyrillStachniss) - Robotics, computer vision, and photogrammetry
+- [Dan Makes Things](https://www.youtube.com/@DanMakesThings) - Electronics, robotics, and model making
+- [Daves Garage](https://www.youtube.com/@DavesGarage) - Software development experiences
+- [David Bombal](https://www.youtube.com/@davidbombal) - Network engineering, network automation, and cybersecurity
+- [Derek Banas](https://www.youtube.com/@derekbanas) - Programming tutorials
+- [DF ROBOT](https://www.youtube.com/@DFROBOTCN) - Open-source robotics and STEM education tools
+- [DIY Engineers](https://www.youtube.com/@diyengineers) - Building and modifying various devices and systems.
+- [DIY LIFE HACKER](https://www.youtube.com/@DIYLIFEHACKER) - DIY drone building tutorials, and autopilot deliveries
+- [Drone Mesh](https://www.youtube.com/@DroneMesh) - FPV drone reviews, and open-source flight controllers
+- [Drone Bot Workshop](https://www.youtube.com/@Dronebotworkshop) - Arduino, RPi, ESP32, robotics, and IoT projects
+- [Elecrow](https://www.youtube.com/@Elecrow) - Electronics projects, RPi, ESP32 displays, and manufacturing tips
+- [ELECTRO NOOBS](https://www.youtube.com/@ELECTRONOOBS) - Arduino, electronics circuits, PCB design, 3D printing, drones
+- [Essential RC](https://www.youtube.com/@EssentialRC) - RC vehicle builds, and hobby tips
+- [Foxtech Hobby](https://www.youtube.com/@Foxtechhobby) - UAVs, UGVs, FPV drones, and robotics
+- [Foxtech Robot](https://www.youtube.com/@foxtechrobot) - Unmanned solutions like drones, UGVs, robot arms, and lidar tech
+- [FPV Usman](https://www.youtube.com/@fpvusman) - FPV drone freestyle tutorials
+- [FPV University](https://www.youtube.com/@FPVUniversity) - FPV drone education, tutorials on building quadcopters
+- [Gary Explains](https://www.youtube.com/@GaryExplains) - Breaks down complex tech topics like CPU cores, smartphone internals, and cloud computing
+- [GREEN TECH](https://www.youtube.com/@Gtechpk) - Tech reviews, unboxings, and gadget opinions
+- [Hackster IO](https://www.youtube.com/@HacksterIo) - Community for hardware makers Arduino, RPi, IoT, and embedded systems
+- [Ham Radio Crash Course](https://www.youtube.com/@HamRadioCrashCourse) - Amateur radio tutorials
+- [Hash Include Electronics](https://www.youtube.com/@hashincludeelectronics) - Tutorials on projects using Arduino, ESP32, and more
+- [Hiwonder](https://www.youtube.com/@hiwonder294) - Education robots like humanoid arms, cars, and hexapods using Arduino, RPi, and Jetson
+- [How To Mechatronics](https://www.youtube.com/@HowToMechatronics) - Mechatronics, robotics, and 3D-printed projects
+- [Huiyuan](https://www.youtube.com/@huiyuan1295) - C++ Programming on Linux
+- [Intelligent Quads](https://www.youtube.com/@IntelligentQuads) - Intelligent drones topics like PyMAVLink
+- [Jeff Geerling](https://www.youtube.com/@JeffGeerling) - RPi, single-board computers, open-source softwares
+- [Jetson Hacks](https://www.youtube.com/@JetsonHacks) - NVIDIA Jetson developer kits, empowering AI, computer vision, and edge computing
+- [Joeys Retro Handhelds](https://www.youtube.com/@JoeysRetroHandhelds) - Retro gaming handhelds
+- [Joop Brokking](https://www.youtube.com/@Joop_Brokking) - Arduino-based projects like self-balancing robots, auto-leveling quadcopters, and RC helicopters
+- [Joshua Bardwell](https://www.youtube.com/@JoshuaBardwell) - FPV drone tutorials and gear reviews
+- [Joyplanes](https://www.youtube.com/@Joyplanes) - RC airplane and drone builds
+- [Kendin Yap](https://www.youtube.com/@Kendin-Yap) - DIY inventions, RC vehicles and airplanes, hobby electronics, and 3D printing
+- [Kolban Technical Tutorials](https://www.youtube.com/@kolbantechnicaltutorials4715) - Tutorials on embedded systems, ESP32, Bluetooth Low Energy, and IoT
+- [Leepsp Video](https://www.youtube.com/@leepspvideo) - RPi tutorials, projects, and tech reviews
+- [Luckfox Technology](https://www.youtube.com/@LuckfoxTechnology) - Linux development boards, microcontrollers, cameras, and AI vision modules
+- [Mad RC](https://www.youtube.com/@MadRC) - Drones, FPV gear, RC models
+- [MAKE](https://www.youtube.com/@MAKE) - DIY projects, electronics, 3D printing, and robotics tutorials
+- [Make Hub TW](https://www.youtube.com/@MakeHubtw) - Linked to the MakeHub-tw GitHub; maker projects, DIY electronics, and coding tutorials
+- [Max Imagination](https://www.youtube.com/@MaxImagination) - Electronics tutorials on RC vehicles, robotics, and circuits
+- [Mike Shah](https://www.youtube.com/@MikeShah) - Tutorials on modern C++, game development, and computer graphics
+- [Miss Coding](https://www.youtube.com/@MissCoding) - Tutorials, tech opinions, and learning strategies for programmers
+- [Murtaza Workshop](https://www.youtube.com/@murtazasworkshop) - Practical tutorials on computer vision, Python, robotics, and AI
+- [Nicolai AI](https://www.youtube.com/@NicolaiAI) - AI, machine learning, and computer vision
+- [Nikodem Bartnik](https://www.youtube.com/@nikodembartnik) - 
+- [Null Byte WHT](https://www.youtube.com/@NullByteWHT) - 
+- [Pat Loeber](https://www.youtube.com/@patloeber) - 
 - [Practical Software Marcus](https://www.youtube.com/@practicalsoftwaremarcus)
 - [PX4 Autopilot](https://www.youtube.com/@PX4Autopilot)
 - [Ralph Bacon](https://www.youtube.com/@RalphBacon)
