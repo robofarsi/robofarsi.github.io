@@ -1,5 +1,5 @@
 ---
-title: Makers & YouTube Channels
+title: Makers & YT Channels
 parent: Resources
 nav_order: 5
 ---
